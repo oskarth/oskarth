@@ -16,12 +16,15 @@ Currently I’m technical lead for the Institutional Privacy Task Force (IPTF) a
 - [zkmopro/mopro](https://github.com/zkmopro/mopro) - client-side proving on mobile
 - [vacp2p/zerokit](https://github.com/vacp2p/zerokit) - reusable zero-knowledge modules
 
-## P2P and specifications
+## Messaging and p2p
 
 - [logos-messaging/logos-delivery](https://github.com/logos-messaging/logos-delivery) - peer-to-peer messaging protocols in Nim, from Waku and now part of Logos
+- [vacp2p/research](https://github.com/vacp2p/research) - experimental protocol and systems work
+
+## Specifications
+
 - [vacp2p/rfc](https://github.com/vacp2p/rfc) - messaging and peer-to-peer protocol specifications
 - [privacy-ethereum/zkspecs](https://github.com/privacy-ethereum/zkspecs) - ZK and programmable cryptography specifications
-- [vacp2p/research](https://github.com/vacp2p/research) - experimental protocol and systems work
 
 ## Elsewhere
 
