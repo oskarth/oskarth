@@ -2,13 +2,13 @@
 
 I work on privacy, programmable cryptography, and peer-to-peer protocol design.
 
-Currently I’m technical lead for the Institutional Privacy Task Force (IPTF) at the Ethereum Foundation, focused on privacy for institutional Ethereum use.
+Currently I’m a co-founder of [EthSystems](https://ethsystems.org), where we build confidential systems for institutional Ethereum. Previously I kickstarted and led the Institutional Privacy Task Force (IPTF) at the Ethereum Foundation.
 
 ## Current work
 
-- [ethereum/iptf-map](https://github.com/ethereum/iptf-map) - privacy patterns, approaches, and use cases
-- [ethereum/iptf-pocs](https://github.com/ethereum/iptf-pocs) - proofs of concept
-- [ethereum/iptf-web](https://github.com/ethereum/iptf-web) - website for [iptf.ethereum.org](https://iptf.ethereum.org)
+- [ethsystems/map](https://github.com/ethsystems/map) - Ethereum Privacy Map: privacy patterns, approaches, and use cases
+- [ethsystems/pocs](https://github.com/ethsystems/pocs) - proofs of concept
+- [ethsystems/works](https://github.com/ethsystems/works) - reusable building blocks
 
 ## Zero knowledge
 
@@ -28,6 +28,7 @@ Currently I’m technical lead for the Institutional Privacy Task Force (IPTF) a
 
 ## Elsewhere
 
+- [ethsystems.org](https://ethsystems.org)
 - [oskarth.com](https://oskarth.com) / [projects](https://oskarth.com/projects/)
 - [zkintro.com](https://zkintro.com)
 - [@oskarth](https://x.com/oskarth)
